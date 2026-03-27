@@ -1,5 +1,4 @@
 #  Festman Studio - Power BI Case Study
-
 ##  Project Overview
 This project is a **Power BI case study** based on Festman Studio data.  
 The goal of this project is to analyze business performance and generate meaningful insights using interactive dashboards.
